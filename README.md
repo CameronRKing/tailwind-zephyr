@@ -26,7 +26,7 @@ console.log(cssRules);
 }`
 */
 
-const classPatch = getClassPatch('flex justify-center items-start', 'justify-start');
+const classPatch = getClassPatch(['flex', 'justify-center', 'items-start'], 'justify-start');
 console.log(classPatch);
 /*
 {
