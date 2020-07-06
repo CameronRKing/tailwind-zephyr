@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-zephyr",
+  "version": "0.1.0",
+  "description": "Tools for working with TailwindCSS utility/component classes programmatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CameronRKing/tailwind-zephyr.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "css"
+  ],
+  "author": "Cameron King <cameronking42@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CameronRKing/tailwind-zephyr/issues"
+  },
+  "homepage": "https://github.com/CameronRKing/tailwind-zephyr#readme"
+}
